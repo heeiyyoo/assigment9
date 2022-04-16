@@ -1,0 +1,5 @@
+spring:
+  message: prod
+
+server:
+  port: 9091
